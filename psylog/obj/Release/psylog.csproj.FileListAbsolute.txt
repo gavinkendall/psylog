@@ -1,0 +1,4 @@
+C:\Users\gkendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Release\psylog.frmPsylog.resources
+C:\Users\gkendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Release\psylog.Properties.Resources.resources
+C:\Users\gkendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Release\psylog.csproj.GenerateResource.cache
+C:\Users\gkendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Release\psylog.csproj.CoreCompileInputs.cache
