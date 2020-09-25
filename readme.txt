@@ -48,3 +48,9 @@ The following tags can be used with the "-file" command line option:
 %minute%         The current minute
 %second%         The current second
 %millisecond%    The current millisecond
+
+
+
+Source Code
+-----------
+https://github.com/gavinkendall/psylog
