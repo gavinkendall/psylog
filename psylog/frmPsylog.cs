@@ -1,5 +1,5 @@
 ﻿//-----------------------------------------------------------------------
-// Psylog
+// PsyLog
 // A simple keylogger for Windows.
 // Copyright (C) 2020 Gavin Kendall
 //
@@ -23,7 +23,7 @@ using System.Windows.Forms;
 
 namespace psylog
 {
-    public partial class frmPsylog : Form
+    public partial class frmPsyLog : Form
     {
         private readonly Keylogger keylogger = new Keylogger();
         private const string REGEX_COMMAND_LINE_LOG = "^-file=(?<File>.+)$";
@@ -103,7 +103,7 @@ namespace psylog
             }
         }
 
-        public frmPsylog(string[] args)
+        public frmPsyLog(string[] args)
         {
             InitializeComponent();
             

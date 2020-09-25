@@ -12,8 +12,7 @@
     <AssemblyName>psylog</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <ApplicationIcon>
-    </ApplicationIcon>
+    <ApplicationIcon>psylog.ico</ApplicationIcon>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <OldToolsVersion>3.5</OldToolsVersion>
@@ -66,18 +65,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmPsylog.cs">
+    <Compile Include="frmPsyLog.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmPsylog.Designer.cs">
-      <DependentUpon>frmPsylog.cs</DependentUpon>
+    <Compile Include="frmPsyLog.Designer.cs">
+      <DependentUpon>frmPsyLog.cs</DependentUpon>
     </Compile>
     <Compile Include="KeyboardListener.cs" />
     <Compile Include="Keylogger.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="AccessGUI.cs" />
-    <EmbeddedResource Include="frmPsylog.resx">
-      <DependentUpon>frmPsylog.cs</DependentUpon>
+    <EmbeddedResource Include="frmPsyLog.resx">
+      <DependentUpon>frmPsyLog.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -94,6 +93,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="psylog.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

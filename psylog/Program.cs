@@ -1,5 +1,5 @@
 ﻿//-----------------------------------------------------------------------
-// Psylog
+// PsyLog
 // A simple keylogger for Windows.
 // Copyright (C) 2020 Gavin Kendall
 //
@@ -26,7 +26,7 @@ namespace psylog
         [STAThread]
         public static void Main(string[] args)
         {
-            Application.Run(new frmPsylog(args));
+            Application.Run(new frmPsyLog(args));
         }
     }
 }

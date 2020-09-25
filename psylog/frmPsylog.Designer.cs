@@ -1,6 +1,6 @@
 ﻿namespace psylog
 {
-    partial class frmPsylog
+    partial class frmPsyLog
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmPsylog));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmPsyLog));
             this.SuspendLayout();
             // 
             // frmPsyLog

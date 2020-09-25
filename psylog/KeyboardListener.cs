@@ -1,5 +1,5 @@
 ﻿//-----------------------------------------------------------------------
-// Psylog
+// PsyLog
 // A simple keylogger for Windows.
 // Copyright (C) 2020 Gavin Kendall
 //

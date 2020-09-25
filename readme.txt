@@ -1,12 +1,12 @@
-Psylog by Gavin Kendall
-Last updated on 2020-07-25 (July 25, 2020)
+PsyLog by Gavin Kendall
+Last updated on 2020-09-25 (September 25, 2020)
 =============================================================================================================
 
 
 
 Summary
 -------
-Psylog is a very simple keylogger for Windows. It's not stealthy or very advanced, but the output is nice
+PsyLog is a very simple keylogger for Windows. It's not stealthy or very advanced, but the output is nice
 because it also writes out the title of the active window and the date and time while keylogging.
 
 
